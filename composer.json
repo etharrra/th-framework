@@ -1,0 +1,15 @@
+{
+    "name": "iterd/th-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thar Htoo",
+            "email": "thar.htoo@pixelsmagic.com"
+        }
+    ],
+    "require": {}
+}
